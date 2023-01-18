@@ -1,0 +1,193 @@
+type_of_car,choice_of_car,reason,safety,road_accidents_witnessed,comfortable,count,type,satisfaction,smoothness,noise_level
+petrol,petrol,Charging Time ,Yes,1,Yes,1,petrol,6.2,6.3,2
+petrol,petrol,Charging Time ,Yes,1,Yes,1,petrol,6.1,6.7,2.3
+petrol,petrol,Charging Time ,Yes,1,Yes,1,petrol,5.7,6.3,2.3
+petrol,petrol,Charging Time ,Yes,1,Yes,1,petrol,6.8,6.1,2.2
+petrol,petrol,Charging Time ,Yes,1,Yes,1,petrol,3.4,6.2,2.4
+petrol,petrol,Limited Charging Areas,Yes,2,Yes,1,petrol,4.5,6.8,2.6
+petrol,petrol,Charging Time ,Yes,2,Yes,1,petrol,2.1,6.9,2.7
+petrol,petrol,Charging Time ,Yes,2,Yes,1,petrol,1.2,6.5,2.9
+petrol,petrol,Charging Time ,Yes,1,Yes,1,petrol,6.5,6,2.8
+petrol,petrol,Charging Time ,Yes,2,Yes,1,electric,9.3,8,2.1
+petrol,petrol,Charging Time ,Yes,2,Yes,1,petrol,7.2,5.3,2.4
+petrol,petrol,Charging Time ,Yes,2,Yes,1,petrol,8.3,8,2.6
+petrol,petrol,Price,Yes,1,Yes,1,petrol,7.4,6.3,2.7
+petrol,petrol,Limited Charging Areas,Yes,3,Yes,1,petrol,6.2,6.8,2.8
+petrol,petrol,Limited Charging Areas,Yes,1,Yes,1,petrol,6,6,2.3
+petrol,petrol,Limited Charging Areas,Yes,1,Yes,1,petrol,6,6,2.4
+petrol,petrol,Limited Charging Areas,Yes,3,Yes,1,petrol,5,6,2.5
+petrol,petrol,Limited Charging Areas,Yes,3,Yes,1,petrol,4.1,7.3,2.9
+petrol,petrol,Limited Charging Areas,Yes,3,Yes,1,petrol,2.3,7.2,2.7
+petrol,petrol,Limited Charging Areas,Yes,2,Yes,1,petrol,1.8,7.9,2.9
+petrol,petrol,Limited Charging Areas,Yes,1,Yes,1,petrol,6.7,7.5,2
+petrol,petrol,Limited Charging Areas,Yes,3,Yes,1,petrol,6.8,6.3,2
+petrol,petrol,Limited Charging Areas,Yes,1,Yes,1,petrol,7.3,8,2
+petrol,petrol,Limited Charging Areas,Yes,2,Yes,1,petrol,6.2,7.2,3.3
+petrol,petrol,Limited Charging Areas,Yes,2,Yes,1,petrol,6.1,7.7,4.2
+petrol,petrol,Limited Charging Areas,Yes,2,Yes,1,petrol,5.6,7,4
+petrol,petrol,Price,Yes,2,Yes,1,electric,9.3,9.3,9
+petrol,petrol,Price,Yes,1,Yes,1,electric,8.6,6.2,9.8
+petrol,petrol,Price,Yes,2,Yes,1,electric,8.7,8.3,9.3
+petrol,petrol,Price,Yes,4,Yes,1,electric,9.3,8.5,9.4
+petrol,petrol,Charging Time ,Yes,4,Yes,1,electric,9.5,8.7,9.2
+electric,electric,Cheaper Fuel,Yes,4,Yes,1,electric,9.7,8.9,9.1
+petrol,petrol,Price,Yes,3,Yes,1,electric,10,8,9.7
+petrol,petrol,Price,Yes,2,Yes,1,electric,10,9,9.8
+petrol,petrol,Price,Yes,4,Yes,1,electric,10,7.8,9.4
+petrol,petrol,Price,Yes,1,Yes,1,electric,10,7.3,9.3
+petrol,petrol,Price,Yes,2,Yes,1,electric,10,7,9
+petrol,petrol,Charging Time ,Yes,3,Yes,1,electric,8.3,10,8.1
+petrol,petrol,Charging Time ,Yes,4,Yes,1,electric,9.5,10,8.3
+petrol,petrol,Price,Yes,4,Yes,1,electric,8.1,10,8.4
+petrol,petrol,Limited Charging Areas,Yes,2,Yes,1,petrol,7.5,10,8
+petrol,petrol,Used To It,Yes,1,Yes,1,petrol,8.3,10,8
+petrol,petrol,Limited Charging Areas,Yes,3,Yes,1,petrol,7.2,10,7
+petrol,petrol,Limited Charging Areas,Yes,4,Yes,1,petrol,6.7,10,6.3
+petrol,petrol,Limited Charging Areas,Yes,2,Yes,1,electric,6,6.2,8.4
+petrol,petrol,Limited Charging Areas,Yes,2,Yes,1,electric,6.8,6.3,7.6
+petrol,petrol,Charging Time ,Yes,1,Yes,1,electric,6,6.7,7
+petrol,petrol,Charging Time ,Yes,4,Yes,1,electric,8,6.8,8.8
+petrol,petrol,Charging Time ,Yes,3,Yes,1,electric,8,6.5,8.1
+petrol,petrol,Charging Time ,Yes,3,Yes,1,electric,10,6,9.5
+petrol,petrol,Charging Time ,Yes,4,Yes,1,electric,10,6,7
+petrol,petrol,Charging Time ,Yes,4,Yes,1,petrol,10,6.3,8.2
+petrol,petrol,Charging Time ,Yes,2,Yes,1,petrol,10,7.2,9
+petrol,petrol,Limited Charging Areas,Yes,1,Yes,1,electric,9.4,7,1
+petrol,petrol,Charging Time ,Yes,2,Yes,1,petrol,6.7,5,2.3
+petrol,petrol,Limited Charging Areas,Yes,1,Yes,1,petrol,6,6,2.4
+petrol,petrol,Limited Charging Areas,Yes,2,Yes,1,petrol,6,6,2.5
+petrol,petrol,Limited Charging Areas,Yes,3,Yes,1,petrol,6.3,6,3.3
+petrol,petrol,Limited Charging Areas,Yes,3,Yes,1,petrol,6.2,6,1.3
+petrol,petrol,Limited Charging Areas,Yes,5,Yes,1,petrol,7.1,6.3,1.8
+petrol,petrol,Limited Charging Areas,Yes,5,Yes,1,petrol,7.7,6.7,3
+petrol,petrol,Limited Charging Areas,Yes,4,Yes,1,petrol,7.9,7,3
+petrol,petrol,Used To It,Yes,4,Yes,1,petrol,7.8,7,2
+petrol,petrol,Used To It,Yes,5,Yes,1,petrol,7.5,9,2.2
+petrol,petrol,Limited Charging Areas,Yes,4,Yes,1,petrol,6.4,10,3.7
+petrol,petrol,Used To It,Yes,5,Yes,1,petrol,5.4,10,4.8
+petrol,petrol,Used To It,Yes,3,Yes,1,petrol,5.8,10,5.5
+petrol,petrol,Used To It,Yes,2,Yes,1,petrol,4.2,8,5.8
+petrol,petrol,Used To It,No,1,Yes,1,petrol,3.7,6,6.2
+petrol,petrol,Used To It,No,1,Yes,1,petrol,4.1,6,6.7
+petrol,petrol,Used To It,No,1,Yes,1,petrol,3.8,6,6
+petrol,petrol,Used To It,No,5,Yes,1,petrol,8.2,6.9,5.8
+petrol,petrol,Used To It,No,5,Yes,1,petrol,8.6,6.3,5.2
+petrol,petrol,Used To It,No,1,Yes,1,petrol,6.9,6.5,6.7
+petrol,petrol,Used To It,No,3,Yes,1,petrol,6.7,6.2,2.7
+petrol,petrol,Used To It,No,1,Yes,1,petrol,6.8,6.7,1.2
+petrol,petrol,Used To It,No,3,Yes,1,petrol,6.4,6.8,1.4
+electric,electric,Lower Maintenance,No,5,Yes,1,petrol,6.3,6,3
+electric,electric,Lower Maintenance,No,4,Yes,1,petrol,7.8,4,4
+electric,electric,Safety,No,2,Yes,1,petrol,7.6,4.3,5.4
+electric,electric,Safety,No,3,Yes,1,petrol,7,4.7,5.8
+electric,electric,Safety,No,4,Yes,1,petrol,7,3.3,6.3
+petrol,petrol,Used To It,No,4,Yes,1,petrol,7,1,6.9
+electric,electric,Safety,No,3,Yes,1,petrol,6,2,6.7
+petrol,petrol,Used To It,No,5,Yes,1,petrol,7,1,7.3
+petrol,petrol,Used To It,No,2,Yes,1,petrol,7,2.8,9.5
+petrol,petrol,Used To It,Yes,1,Yes,1,petrol,7,1.6,3.2
+petrol,petrol,Used To It,Yes,3,Yes,1,petrol,6,1.9,9
+petrol,petrol,Used To It,Yes,4,Yes,1,petrol,6,6,3
+petrol,petrol,Used To It,Yes,4,Yes,1,petrol,6.3,7,2
+petrol,petrol,Used To It,Yes,5,Yes,1,petrol,5.8,7.4,2.7
+petrol,petrol,Used To It,Yes,5,Yes,1,petrol,4.3,7,1.7
+petrol,petrol,Used To It,Yes,5,Yes,1,petrol,6.3,6,2.8
+petrol,petrol,Used To It,Yes,4,Yes,1,petrol,6.8,6,1.4
+petrol,petrol,Used To It,Yes,3,Yes,1,petrol,6.9,6,2.2
+petrol,petrol,Used To It,Yes,4,Cant tell ,1,petrol,6.7,5,2.5
+petrol,petrol,Used To It,Yes,2,Cant tell ,1,electric,6.3,9.8,8
+petrol,petrol,Used To It,Yes,2,Cant tell ,1,electric,6.3,9.3,9
+petrol,petrol,Used To It,Yes,1,Cant tell ,1,electric,6.1,9.2,9
+petrol,petrol,Used To It,Yes,1,Cant tell ,1,electric,8.3,9.5,9.5
+petrol,petrol,Used To It,Yes,4,Cant tell ,1,petrol,8.7,9.4,3
+petrol,petrol,Used To It,Yes,3,Cant tell ,1,petrol,8.6,6,4
+petrol,petrol,Used To It,Yes,2,Cant tell ,1,petrol,8.4,7,4
+petrol,petrol,Used To It,Yes,3,Cant tell ,1,petrol,7.1,6,3.2
+petrol,petrol,Used To It,Yes,4,Cant tell ,1,petrol,7.3,5,3.8
+petrol,petrol,Used To It,Yes,4,Cant tell ,1,petrol,7.7,4.3,2.2
+petrol,petrol,Limited Charging Areas,Yes,5,Cant tell ,1,petrol,7.9,1,2.9
+petrol,petrol,Limited Charging Areas,Yes,4,Cant tell ,1,petrol,7.8,1,2.5
+petrol,petrol,Limited Charging Areas,Yes,5,Cant tell ,1,petrol,8.3,1.5,1.4
+petrol,petrol,Limited Charging Areas,Yes,5,No,1,petrol,8,1.8,1.7
+petrol,petrol,Limited Charging Areas,Yes,4,No,1,petrol,8,2.3,3.3
+petrol,petrol,Limited Charging Areas,Yes,2,No,1,petrol,8,2.8,4.8
+petrol,petrol,Limited Charging Areas,Yes,1,No,1,petrol,8,3,4
+petrol,petrol,Limited Charging Areas,Yes,1,No,1,petrol,9,4.5,5
+petrol,petrol,Used To It,Yes,2,No,1,petrol,9.3,5.5,6
+petrol,petrol,Used To It,Yes,2,No,1,electric,9.4,6,6.5
+petrol,petrol,Charging Time ,Yes,2,Yes,1,electric,9.6,9,9.3
+petrol,petrol,Charging Time ,Yes,2,Yes,1,petrol,9.5,6.8,6.7
+petrol,petrol,Limited Charging Areas,Yes,2,Yes,1,petrol,7,6.7,5.4
+petrol,petrol,Limited Charging Areas,Yes,2,Yes,1,petrol,7.3,6.4,3
+petrol,petrol,Limited Charging Areas,Yes,2,Cant tell ,1,petrol,7,6.2,4
+petrol,petrol,Limited Charging Areas,Yes,3,Yes,1,petrol,6.6,6.1,4
+petrol,petrol,Limited Charging Areas,Yes,3,Cant tell ,1,petrol,6.2,6,4.8
+petrol,petrol,Limited Charging Areas,Yes,3,Yes,1,electric,9.7,10,7.2
+petrol,petrol,Limited Charging Areas,Yes,3,Cant tell ,1,petrol,6.6,6,4
+petrol,petrol,Limited Charging Areas,No,1,Cant tell ,1,petrol,6.2,6,4
+petrol,petrol,Limited Charging Areas,No,2,Yes,1,petrol,6.2,6.2,6
+petrol,petrol,Limited Charging Areas,No,1,No,1,petrol,6.3,6.6,3
+petrol,petrol,Limited Charging Areas,No,2,No,1,petrol,6.4,7.8,4.1
+petrol,petrol,Limited Charging Areas,No,5,No,1,petrol,6.9,7.3,4.5
+petrol,petrol,Limited Charging Areas,Yes,4,No,1,petrol,6.8,4.4,4.7
+petrol,petrol,Used To It,Yes,5,No,1,petrol,6.7,3.2,4.8
+petrol,petrol,Used To It,Yes,5,No,1,petrol,6.6,2.7,4.9
+petrol,petrol,Used To It,Yes,4,No,1,petrol,6.5,6.7,4.2
+petrol,petrol,Price,Yes,1,No,1,petrol,6,6,4.3
+petrol,petrol,Price,Yes,2,No,1,petrol,6,6.5,4.1
+petrol,petrol,Price,Yes,5,No,1,petrol,6,6,4.1
+petrol,petrol,Price,Yes,4,No,1,petrol,6,7.1,4
+petrol,petrol,Price,Yes,3,No,1,petrol,6,7.2,4
+petrol,petrol,Price,Yes,2,No,1,petrol,7,7.7,4.6
+petrol,petrol,Price,Yes,4,No,1,petrol,6,7.5,4.8
+petrol,petrol,Price,Yes,3,No,1,petrol,6,7.9,4
+petrol,petrol,Limited Charging Areas,Yes,5,No,1,petrol,7,7,2
+petrol,petrol,Limited Charging Areas,Yes,4,No,1,petrol,6.2,6,1.3
+petrol,petrol,Limited Charging Areas,Yes,4,Cant tell ,1,petrol,6.3,5,8
+petrol,petrol,Limited Charging Areas,No,4,Cant tell ,1,petrol,6.7,4,9
+petrol,petrol,Limited Charging Areas,No,4,Cant tell ,1,petrol,7.5,4.4,10
+petrol,petrol,Limited Charging Areas,No,4,Cant tell ,1,petrol,7.6,2,10
+petrol,petrol,Limited Charging Areas,No,4,Cant tell ,1,petrol,6.4,1,4
+petrol,petrol,Limited Charging Areas,No,4,Cant tell ,1,petrol,6.1,1,3
+petrol,petrol,Limited Charging Areas,No,4,Cant tell ,1,petrol,6,3,3.7
+petrol,petrol,Limited Charging Areas,No,2,Cant tell ,1,petrol,8.7,9,2.3
+petrol,petrol,Limited Charging Areas,No,1,Yes,1,petrol,6.1,8,2
+petrol,petrol,Limited Charging Areas,No,2,No,1,petrol,6.1,6,5.6
+petrol,petrol,Limited Charging Areas,Yes,2,No,1,petrol,6.2,6,4.2
+petrol,petrol,Limited Charging Areas,Yes,4,No,1,petrol,6.3,6,4.8
+petrol,petrol,Limited Charging Areas,Yes,3,Cant tell ,1,petrol,6.6,6.4,4
+petrol,petrol,Limited Charging Areas,Yes,3,Yes,1,petrol,6.6,6.5,6
+petrol,petrol,Limited Charging Areas,Yes,4,Yes,1,petrol,6.9,6.8,6.4
+petrol,petrol,Limited Charging Areas,Yes,4,Yes,1,petrol,6,6.9,6
+petrol,petrol,Limited Charging Areas,Yes,4,Yes,1,petrol,6,6.3,6.3
+petrol,petrol,Limited Charging Areas,Yes,4,Yes,1,petrol,6,6,4.1
+petrol,petrol,Limited Charging Areas,Yes,4,Yes,1,petrol,6,6,4.8
+petrol,petrol,Price,Yes,4,Yes,1,petrol,6,6,5
+petrol,petrol,Price,Yes,4,Yes,1,petrol,6,6,4
+petrol,petrol,Used To It,Yes,4,Yes,1,petrol,6,6,4.2
+petrol,petrol,Used To It,No,4,Yes,1,petrol,6,7.2,4.8
+petrol,petrol,Used To It,No,4,Yes,1,petrol,6,7,5
+petrol,petrol,Used To It,Yes,4,Yes,1,petrol,6,8,5
+petrol,petrol,Used To It,Yes,4,Cant tell ,1,petrol,8,9,4.3
+electric,electric,Cheaper Fuel,Yes,4,No,1,petrol,6,9,4.7
+petrol,petrol,Used To It,No,4,Cant tell ,1,petrol,6,10,4.8
+petrol,petrol,Used To It,No,4,No,1,petrol,6,2,4.1
+petrol,petrol,Used To It,Yes,4,Cant tell ,1,petrol,6,3,4.9
+petrol,petrol,Used To It,Yes,4,Cant tell ,1,electric,9,8,4
+petrol,petrol,Used To It,Yes,3,Cant tell ,1,electric,9,1,4
+petrol,petrol,Used To It,Yes,3,Cant tell ,1,petrol,7,1,4
+petrol,petrol,Used To It,Yes,3,Cant tell ,1,electric,9,8.3,10
+petrol,petrol,Used To It,Yes,4,Yes,1,petrol,7,2.6,4
+petrol,petrol,Used To It,Yes,4,Cant tell ,1,petrol,7,3,4
+petrol,petrol,Used To It,Yes,4,Cant tell ,1,petrol,7,4,5.4
+petrol,petrol,Used To It,Yes,4,Cant tell ,1,petrol,7,4,7.7
+electric,electric,Safety,Yes,4,Yes,1,petrol,7,4,8
+petrol,petrol,Price,Yes,4,Yes,1,petrol,7,6,9.3
+petrol,petrol,Price,Yes,4,Yes,1,petrol,7,6,4.1
+petrol,petrol,Limited Charging Areas,Yes,4,Yes,1,petrol,7,5,4.7
+petrol,petrol,Price,Yes,4,Yes,1,petrol,7,5.8,4
+petrol,petrol,Price,Yes,4,Yes,1,petrol,7,6.2,4
+electric,electric,Safety,Yes,4,Yes,1,petrol,7,5.7,2.2
+petrol,petrol,Price,Yes,4,Yes,1,petrol,7,6,3.1
+petrol,petrol,Limited Charging Areas,Yes,4,Yes,1,petrol,6,6,1
+petrol,petrol,Price,Yes,4,Yes,1,petrol,6,6.4,4

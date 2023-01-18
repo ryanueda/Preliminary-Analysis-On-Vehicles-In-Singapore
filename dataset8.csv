@@ -1,0 +1,40 @@
+,Entity,Year,CO2 emissions (gCO2/km)
+0,Black cab (taxi),2018,210.53
+1,Bus,2018,103.91
+2,Coach,2018,27.28
+3,"Diesel car, 2 passengers",2018,84.385
+4,"Diesel car, 4 passengers",2018,42.1925
+5,Domestic flight,2018,133.45000000000002
+6,Eurostar (international rail),2018,5.92
+7,Ferry (car passenger),2018,127.739
+8,Ferry (foot passenger),2018,18.48
+9,Large car (diesel),2018,207.63
+10,Large car (hybrid),2018,130.22
+11,Large car (petrol),2018,282.25
+12,Large car (plug-in hybrid electric),2018,76.85000000000001
+13,Large electric vehicle (UK electricity),2018,66.35000000000001
+14,Light rail and tram,2018,34.8
+15,London Underground,2018,30.59
+16,Long-haul flight (business class),2018,227.52
+17,Long-haul flight (economy),2018,78.45
+18,Long-haul flight (economy+),2018,125.53
+19,Long-haul flight (first class),2018,313.82
+20,Medium car (diesel),2018,168.77
+21,Medium car (hybrid),2018,107.64
+22,Medium car (petrol),2018,191.58
+23,Medium car (plug-in hybrid electric),2018,70.4
+24,Medium electric vehicle (UK electricity),2018,52.75
+25,Motorcycle (large),2018,133.08
+26,Motorcycle (medium),2018,100.04
+27,Motorcycle (small),2018,82.41
+28,National rail,2018,40.77
+29,"Petrol car, 2 passengers",2018,95.79
+30,"Petrol car, 4 passengers",2018,47.895
+31,Short-haul flight (business class),2018,122.33
+32,Short-haul flight (economy),2018,81.55
+33,Small car (diesel),2018,140.24
+34,Small car (hybrid),2018,104.09
+35,Small car (petrol),2018,153.01000000000002
+36,Small car (plug-in hybrid electric),2018,29.18
+37,Small electric vehicle (UK electricity),2018,45.31
+38,Taxi,2018,148.86
